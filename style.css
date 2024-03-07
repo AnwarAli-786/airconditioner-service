@@ -164,7 +164,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background: url("https://media.istockphoto.com/id/1464462569/photo/happy-family-resting-under-air-conditioner-on-beige-wall-at-home.jpg?s=1024x1024&w=is&k=20&c=e4sjRBYny65il9R5uc_J1C_Lr210K5Zt0VJ6qRbk8WU=") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
